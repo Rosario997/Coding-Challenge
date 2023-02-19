@@ -1,0 +1,64 @@
+body{
+    background-image: url("background.jpg"); background-size: cover; background-repeat:repeat-x;
+    margin: auto;width: 1100px;
+    vertical-align: middle;
+}
+.logo{
+    width: 472px; margin:auto;
+      text-align: center;
+}
+img{
+    width: 300px;
+}
+
+.title{
+    color: rgb(25, 243, 25); text-align: center;
+}
+
+.backg{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 900px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 40px;
+}
+.contenuto{
+    padding: 40px;
+}
+.navbuttons{
+    width: 700px; 
+    text-align:center;
+    background-color: rgb(25, 243, 25);
+    padding: 10px;
+    margin: auto;
+}
+.Monopattino1{
+    padding-top: 10px;
+    padding-left: 6%;
+    padding-bottom: 3px;
+    color: white;
+    font-size: x-large;
+}
+.indirizzo, .carica{
+    font-size: small;
+}
+.carica1{
+    border-color: orange;
+    width: 400px;
+    border-top: 30px solid orange;
+    margin-left: 2px;
+    border-radius: 10px;
+}
+.carica2{
+    border-color: ;
+    width: 500px;
+    border-top: 30px solid rgb(15, 202, 25);
+    margin-left: 2px;
+    border-radius: 10px;
+}.carica3{
+    border-color: red;
+    width: 200px;
+    border-top: 30px solid red;
+    margin-left: 2px;
+    border-radius: 10px;
+}
